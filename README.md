@@ -12,7 +12,9 @@
  
  🔭 I’m currently working on **personal projects**
  
- 🌱 I’m currently learning **HTML, CSS, Javascript, Java, Node, MySQL, Linux, Wordpress, ecc..**
+ 🌱 I’m currently learning **Angular & Tailwind**
+
+ ⭐ I'm practicing **HTML, CSS, Javascript, MySQL, PHP, Laravel, Vue.js**
 
 💬 Ask me about **collaborating or simply exchanging ideas!**
 
