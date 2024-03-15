@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **personal projects**
+ 🔭 I’m currently working on **?**
  
- 🌱 I’m currently learning **Angular & Tailwind**
+ 🌱 I’m currently learning **?**
 
- ⭐ I'm practicing **HTML, CSS, Javascript, MySQL, PHP, Laravel, Vue.js**
+ ⭐ I'm practicing **HTML, CSS, JS, PHP, Vue.js, Laravel & Bootstrap**
 
 💬 Ask me about **collaborating or simply exchanging ideas!**
 
