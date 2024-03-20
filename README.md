@@ -1,7 +1,7 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=loriscassara&label=Profile%20views&color=0092FF&style=flat" alt="loriscassara" />
+<img align="right" src="https://komarev.com/ghpvc/?username=loriscassara&label=Profile%20views&color=FDBA11&style=flat" alt="loriscassara" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🩵;+I'm+Loris+Cassarà!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FDBA11&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+💛;+I'm+Loris+Cassarà!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Italia </h3>
