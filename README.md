@@ -39,7 +39,7 @@
 <h2 align="center">🧬 Skills 🧬</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,vue,nodejs,nextjs,php,laravel,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,vue,nodejs,nextjs,php,laravel,mysql,lua" />
     <img src="https://skillicons.dev/icons?i=vite,npm,webpack,git,vscode,github,arduino,discord" /><br>
 </div>
 
